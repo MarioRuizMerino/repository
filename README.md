@@ -8,7 +8,7 @@ Te da herramientas para hacer una wiki, tienes la oportunidad de ver los commits
 Github fue fundado el 8 de febrero de 2008 por *Tom-Preston-Werner*, *Chris Wanstrath*, *P. J. Hyett* y *Scott Chacon* y empezó como [Logical Awesome LLC](https://es.wikipedia.org/wiki/GitHub) y en Enero de 2010 renombraron la empresa a Github.  
 El 4 de junio de 2018 **Microsoft compró Github** y desde entonces ellos tienen el control de la compañía.
 
-**![Foto del logo de Microsoft](img/Microsoft.png)**
+**![Foto del logo de Microsoft](img/microsoft.png)**
 
 ## Copilot
 Copilot es la **IA** de **Microsoft** que se puede acceder de las siguientes maneras:
