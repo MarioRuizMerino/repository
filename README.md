@@ -15,3 +15,4 @@ Copilot es la **IA** de **Microsoft** que se puede acceder de las siguientes man
 + Buscando algo en el navegador bing te aparece la respuesta con IA 
 + En la [página web oficial](https://copilot.microsoft.com/)
 + Mediante la aplicación que viene preinstalada en Windows 11
++ También recientemente se puede acceder a Copilot desde el propio [GitHub](https://github.com/features/copilot)
